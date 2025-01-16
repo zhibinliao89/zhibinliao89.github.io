@@ -91,6 +91,8 @@
 
   img {
     max-width: 175px;
+    width: 120px; /* Set the desired width */
+    height: 160px; /* Set a taller height for the oval shape */
     border-radius: 50%;
 
     @include breakpoint($large) {
