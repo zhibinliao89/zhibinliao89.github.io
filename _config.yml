@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Zhibin_profile.jpg"
   name             : "Zhibin Liao"
   pronouns         : he/his # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Lecturer in the Adelaide University"
   location         : "Adelaide, Australia"
   employer         : "Adelaide University"
   uri              : # URL
