@@ -26,7 +26,7 @@ author:
   avatar           : "zhibin-liao.jpg"
   name             : "Dr Zhibin Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Lecturer in AI, computer vision, and medical AI"
+  bio              : "Senior Lecturer in AI and Medical AI"
   location         : "Adelaide, Australia"
   employer         : "Adelaide University"
   uri              : "https://researchers.adelaide.edu.au/profile/zhibin.liao"
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
