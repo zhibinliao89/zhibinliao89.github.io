@@ -60,3 +60,19 @@ img.author__avatar {
     max-width: 175px;
   }
 }
+
+.publication__title {
+  margin-bottom: 0.15em;
+  font-size: 1em;
+}
+
+.publication__authors,
+.publication__venue {
+  margin: 0.1em 0;
+  font-size: 0.9em;
+  line-height: 1.35;
+}
+
+.publication__venue {
+  margin-bottom: 0.8em;
+}

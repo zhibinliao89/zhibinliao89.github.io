@@ -85,9 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   conferences:
-    title: 'Conference Papers'
+    title: 'Selected Conference Papers'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Selected Journal Articles'    
   books:
     title: 'Books'
 

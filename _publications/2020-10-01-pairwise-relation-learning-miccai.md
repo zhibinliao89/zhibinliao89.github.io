@@ -1,5 +1,6 @@
 ---
 title: "Pairwise Relation Learning for Semi-Supervised Gland Segmentation"
+authors: "Yutong Xie, Jianpeng Zhang, Zhibin Liao, Johan Verjans, Chunhua Shen, Yong Xia"
 collection: publications
 category: conferences
 permalink: /publication/2020-pairwise-relation-learning-miccai
