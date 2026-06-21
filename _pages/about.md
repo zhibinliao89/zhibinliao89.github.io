@@ -14,7 +14,7 @@ I have more than 10 years of AI research experience, including more than six yea
 ## Research Highlights
 
 - 60+ peer-reviewed publications, with work appearing in CVPR, ICCV, MICCAI, TPAMI, TIP, IEEE Transactions on Medical Imaging, and IEEE Journal of Biomedical and Health Informatics.
-- 2650 citations and h-index 25 on Google Scholar, as recorded in my CV.
+- 2650 citations and h-index 25 on Google Scholar.
 - More than $7M AUD in competitive research funding as Chief Investigator.
 - Co-inventor on 2 US patents.
 - AI lead for the NHMRC Partnership Project RAPIDx AI from 2021 to 2023, developing and clinically validating a real-time myocardial injury detection system with Siemens and SA Health.
@@ -46,4 +46,3 @@ I supervise projects in explainable AI, medical imaging, multimodal medical AI, 
 - [University profile](https://researchers.adelaide.edu.au/profile/zhibin.liao)
 - [Google Scholar](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0001-9965-4511)
-- [CV](/files/Zhibin_Liao_CV.pdf)
