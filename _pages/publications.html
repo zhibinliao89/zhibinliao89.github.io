@@ -5,13 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN).
+
+## Profile
+
+My work has appeared in leading venues in computer vision, medical image analysis, and machine learning, including CVPR, ICCV, MICCAI, TPAMI, TIP, IEEE Transactions on Medical Imaging, and IEEE Journal of Biomedical and Health Informatics.
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +32,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
