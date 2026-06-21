@@ -42,8 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
-.author__avatar img {
-  aspect-ratio: 1 / 1;
+.author__avatar img,
+img.author__avatar {
+  width: 36px;
+  height: 36px;
+  max-width: 36px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center;
+}
+
+@media (min-width: 1024px) {
+  .author__avatar img,
+  img.author__avatar {
+    width: 175px;
+    height: 175px;
+    max-width: 175px;
+  }
 }
